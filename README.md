@@ -1,6 +1,3 @@
-<!-- hello -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl1YnNpbnE3bnlhMG9tenAzZzljZTFuZTRtYjVkdHJieTg1cTgydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" width="100%"><br>
-
 <!-- Nama -->
 <div align="center">
 <h1 style="font-family: 'JetBrains Mono', monospace; font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 700; color: #A855F7; text-shadow: 0 0 10px #8B5CF6, 0 0 20px #8B5CF6, 0 0 30px #8B5CF6; letter-spacing: 2px; margin: 25px 0;">
