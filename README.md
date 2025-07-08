@@ -1,5 +1,5 @@
 <!-- hello -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl1YnNpbnE3bnlhMG9tenAzZzljZTFuZTRtYjVkdHJieTg1cTgydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" style="width:100%;max-width:600px;height:auto;"><br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl1YnNpbnE3bnlhMG9tenAzZzljZTFuZTRtYjVkdHJieTg1cTgydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" width="100%"><br>
 
 <!-- Nama -->
 <div align="center">
@@ -32,7 +32,8 @@
 
 ## 🚀 Tentang Saya
 
-<img align="right" alt="Coding" width="400" style="border-radius: 20px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5zNXNueTU5ejd2eDJldW04NXdpMTE0bjNkNzhiNHBlN3d6czVodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
+<!-- Untuk efek rounded pada gambar di bawah, silakan edit gambar menjadi rounded sebelum upload, karena GitHub tidak mendukung style border-radius di README -->
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5zNXNueTU5ejd2eDJldW04NXdpMTE0bjNkNzhiNHBlN3d6czVodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
 
 ```javascript
 const Dimas = {
