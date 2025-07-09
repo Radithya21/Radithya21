@@ -1,21 +1,21 @@
 <!-- Nama -->
 <div align="center">
-<h1 style="font-family: 'JetBrains Mono', monospace; font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 700; color: #A855F7; text-shadow: 0 0 10px #8B5CF6, 0 0 20px #8B5CF6, 0 0 30px #8B5CF6; letter-spacing: 2px; margin: 25px 0;">
-  ⚡<span style="color: #C084FC;">Dimas Radithya</span>⚡
-</h1>
+  <h1 style="font-family: 'JetBrains Mono', monospace; font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 700; color: #A855F7; text-shadow: 0 0 10px #8B5CF6, 0 0 20px #8B5CF6, 0 0 30px #8B5CF6; letter-spacing: 2px; margin: 25px 0;">
+    ⚡<span style="color: #C084FC;">Dimas Radithya</span>⚡
+  </h1>
 </div>
 
-<!-- fokus saya -->
+<!-- Fokus -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=⚡+Web3+Developer+%7C+Blockchain+Enthusiast;🧠+AI+%26+Machine+Learning+Explorer;🎓+Information+Systems+Scholar;⚡+Building+Tomorrow's+Technology+Today!" alt="Perfect Hybrid Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=⚡+Web3+Developer+%7C+Blockchain+Enthusiast;🧠+AI+%26+Machine+Learning+Explorer;🎓+Information+Systems+Scholar;⚡+Building+Tomorrow's+Technology+Today!" alt="Typing SVG" />
 </div>
 
-<!-- header wave -->
+<!-- Header wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=header&text=&fontSize=0&animation=fadeIn" />
 </div>
 
-<!-- keterangan -->
+<!-- Statistik ringkas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Radithya21&style=for-the-badge&color=A855F7" alt="Pengunjung Profil" />
   <img src="https://img.shields.io/github/followers/Radithya21?style=for-the-badge&color=7B68EE" alt="GitHub Followers" />
@@ -29,7 +29,6 @@
 
 ## 🚀 Tentang Saya
 
-<!-- Untuk efek rounded pada gambar di bawah, silakan edit gambar menjadi rounded sebelum upload, karena GitHub tidak mendukung style border-radius di README -->
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5zNXNueTU5ejd2eDJldW04NXdpMTE0bjNkNzhiNHBlN3d6czVodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
 
 ```javascript
@@ -43,11 +42,11 @@ const Dimas = {
 };
 ```
 
-- 🎓 **Mahasiswa Sistem Informasi** yang passionate terhadap teknologi
-- 💻 **Full Stack Developer** yang membangun aplikasi web
-- 🌱 Saat ini menguasai ekosistem JavaScript seperti **React** dan **Express**
-- 🔭 Mengeksplorasi **AI/ML** dan teknologi web modern
-- 🎯 Terbuka untuk **kolaborasi** dan **proyek menarik**
+- 🎓 Mahasiswa Sistem Informasi yang passionate terhadap teknologi
+- 💻 Full Stack Developer yang membangun aplikasi web
+- 🌱 Saat ini menguasai ekosistem JavaScript seperti React dan Express
+- 🔭 Mengeksplorasi AI/ML dan teknologi web modern
+- 🎯 Terbuka untuk kolaborasi dan proyek menarik
 
 <!-- Animated Line -->
 <div align="center">
@@ -59,18 +58,14 @@ const Dimas = {
 <div align="center">
 
 ### Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
 
 ### Backend & Database
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Backend Skills" />
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Backend Skills" />
 
 ### Tools & Platform
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+
 </div>
 
 <!-- Animated Line -->
@@ -116,11 +111,10 @@ const Dimas = {
 </div>
 
 <div align="center">
-
+  
 [![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasdrn21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-radithya-888496281)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drn_2111)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
@@ -131,7 +125,7 @@ const Dimas = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Terima+kasih+telah+mengunjungi+profil+saya!+%F0%9F%91%8B;Mari+membangun+sesuatu+yang+menakjubkan+bersama!+%F0%9F%9A%80;" alt="Pesan penutup" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Terima+kasih+telah+mengunjungi+profil+saya!+%F0%9F%91%8B;mari+membangun+sesuatu+yang+menakjubkan+bersama!+%F0%9F%9A%80;" alt="Penutup" />
 </div>
 
 <div align="center">
@@ -140,14 +134,11 @@ const Dimas = {
 
 ---
 
+<!-- Pacman Contribution Graph (Dark/Light Mode Support) -->
 <p align="center">
-  <i>✨ <a href="https://github.com/Radithya21">Dimas Radithya</i> ✨
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
-</picture>
-
-###
