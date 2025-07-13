@@ -2,11 +2,11 @@
 
 <!-- Animated Line -->
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <h1 align="center">
-  <img src="assets/DIRA.png" alt="DIRA" width="100%">
+  <img src="assets/DIRA.png" alt="DIRA" width="50%">
 </h1>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
