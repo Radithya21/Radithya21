@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-  <img src="assets/DIRA2.png" alt="DIRA" width="50%">
+  <img src="assets/DIRA2.png" alt="DIRA" width="100%">
 </h1>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -31,11 +31,8 @@
   </a>
 </div><br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/cat.gif" alt="Cat Animation" width="30%">
-  <img src="assets/bunny.gif" alt="Bunny Animation" width="30%">
-  <img src="assets/spiderman.gif" alt="Spiderman Animation" width="30%">
-</div>
+
+
 
 <p align="center">
   <picture>
