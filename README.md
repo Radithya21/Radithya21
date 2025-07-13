@@ -2,18 +2,15 @@
 
 <!-- Animated Line -->
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <h1 align="center">
-  <pre>
-<span style="background: linear-gradient(to right, #800080, rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▀▄ █ █▀█ ▄▀█</span>
-<span style="background: linear-gradient(to right, #800080,rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▄▀ █ █▀▄ █▀█</span>
-  </pre>
+  <img src="assets/DIRA.png" alt="DIRA" width="100%">
 </h1>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <p style="font-size: 1.1em; line-height: 1.8; text-align: justify; color: #2c2c2c; background-color: #f8f9fa; padding: 16px 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
