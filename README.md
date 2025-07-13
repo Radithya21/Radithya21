@@ -107,18 +107,6 @@
 
 <!-- Pacman Contribution Graph (Dark/Light Mode Support) -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
-  <p style="
-  font-size: 2em;
-  font-weight: 600;
-  color: #4B5563;
-  text-align: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin-top: 40px;
-  margin-bottom: 20px;
-  letter-spacing: 1px;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.05);">
-  Thank you.
-  </p>
-  <img src="assets/spiderman.gif" alt="Spiderman Animation" width="40%">
+  <img src="assets/spiderman.gif" alt="Spiderman Animation" width="100%">
 </div>
 
