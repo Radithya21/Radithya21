@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dira</h1>
 
 <!-- Animated Line -->
-<div align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 </div>
 
 <h1 align="center">
-  <div style="display: flex; justify-content: center; align-items: center; border: 2px solid #800080; padding: 10px; border-radius: 8px;">
-    <pre style="margin: 0;">
-      <span style="background: linear-gradient(to right, #800080, rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▀▄ █ █▀█ ▄▀█</span>
-      <span style="background: linear-gradient(to right, #800080,rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▄▀ █ █▀▄ █▀█</span>
-    </pre>
-  </div>
+  <pre>
+<span style="background: linear-gradient(to right, #800080, rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▀▄ █ █▀█ ▄▀█</span>
+<span style="background: linear-gradient(to right, #800080,rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▄▀ █ █▀▄ █▀█</span>
+  </pre>
 </h1>
 
-<div align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 </div>
 
@@ -72,7 +70,7 @@
 </div>
 
 <!-- Animated Line -->
-<div align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -92,7 +90,7 @@
 </div>
 
 <!-- Animated Line -->
-<div align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -103,10 +101,9 @@
 </div>
 
 <!-- Animated Line -->
-<div align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div><br>
-
 
 
 <!-- Pacman Contribution Graph (Dark/Light Mode Support) -->
