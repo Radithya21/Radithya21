@@ -1,19 +1,49 @@
-<!-- Nama -->
+<h1 align="center">Hi 👋, I'm Dira</h1>
+
+<!-- Animated Line -->
 <div align="center">
-  <h1 style="font-family: 'JetBrains Mono', monospace; font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 700; color: #A855F7; text-shadow: 0 0 10px #8B5CF6, 0 0 20px #8B5CF6, 0 0 30px #8B5CF6; letter-spacing: 2px; margin: 25px 0;">
-    ⚡<span style="color: #C084FC;">Dimas Radithya</span>⚡
-  </h1>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 </div>
 
-<!-- Fokus -->
+<h1 align="center">
+  <pre>
+<span style="background: linear-gradient(to right, #800080, rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▀▄ █ █▀█ ▄▀█</span>
+<span style="background: linear-gradient(to right, #800080,rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▄▀ █ █▀▄ █▀█</span>
+  </pre>
+</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=⚡+Web3+Developer+%7C+Blockchain+Enthusiast;🧠+AI+%26+Machine+Learning+Explorer;🎓+Information+Systems+Scholar;⚡+Building+Tomorrow's+Technology+Today!" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 </div>
 
-<!-- Header wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=header&text=&fontSize=0&animation=fadeIn" />
-</div>
+<p style="font-size: 1.1em; line-height: 1.8; text-align: justify; color: #2c2c2c; background-color: #f8f9fa; padding: 16px 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  As a 5th-semester Information Systems student, I have a strong interest in technology—particularly in Web3, front-end development, and blockchain innovations. I enjoy keeping up with the latest tech trends and creating digital solutions that are both useful and user-friendly.
+</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="mailto:dimasdrn21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/dimas-radithya-888496281">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/drn_2111">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</div><br>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+
 
 <!-- Statistik ringkas -->
 <p align="center">
@@ -22,48 +52,19 @@
   <img src="https://img.shields.io/github/stars/Radithya21?style=for-the-badge&color=8B5CF6" alt="GitHub Stars" />
 </p>
 
-<!-- Animated Line -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-## 🚀 Tentang Saya
-
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5zNXNueTU5ejd2eDJldW04NXdpMTE0bjNkNzhiNHBlN3d6czVodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
-
-```javascript
-const Dimas = {
-    lokasi: "Indonesia 🇮🇩",
-    pendidikan: "Mahasiswa Sistem Informasi",
-    sedangBelajar: ["JavaScript", "Python", "React", "Node.js"],
-    minat: ["Web Development", "AI/ML", "Backend Systems"],
-    hobi: ["Basket 🏀", "Fotografi 📸", "Musik 🎵"],
-    motto: "Code. Fail. Improve. Repeat. 🚀"
-};
-```
-
-- 🎓 Mahasiswa Sistem Informasi yang passionate terhadap teknologi
-- 💻 Full Stack Developer yang membangun aplikasi web
-- 🌱 Saat ini menguasai ekosistem JavaScript seperti React dan Express
-- 🔭 Mengeksplorasi AI/ML dan teknologi web modern
-- 🎯 Terbuka untuk kolaborasi dan proyek menarik
-
-<!-- Animated Line -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🛠️ Tech Stack
-
+<div style="text-align: center; margin: 40px 0;">
+  <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2rem; color: #333; margin-bottom: 16px;">
+    Tech Stack
+  </h2>
+<div >
 <div align="center">
 
-### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
 
-### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Backend Skills" />
 
-### Tools & Platform
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
 
 </div>
@@ -102,43 +103,9 @@ const Dimas = {
 <!-- Animated Line -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+</div><br>
 
-<div align="center">
-  <h2 style="font-family: 'JetBrains Mono', monospace; font-size: 2rem; font-weight: 600; color: #A855F7; margin: 20px 0;">
-    🤝 Let's Connect
-  </h2>
-</div>
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasdrn21@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-radithya-888496281)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drn_2111)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
-
-</div>
-
-<!-- Animated Line -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Terima+kasih+telah+mengunjungi+profil+saya!+%F0%9F%91%8B;" alt="Penutup" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer&text=&fontSize=0&animation=fadeIn" />
-</div>
-
----
 
 <!-- Pacman Contribution Graph (Dark/Light Mode Support) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+
