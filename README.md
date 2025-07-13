@@ -31,7 +31,8 @@
   </a>
 </div><br>
 
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <h1 align="center">Hi 👋, I'm Dira</h1>
   <img src="assets/cat.gif" alt="Cat Animation" width="20%">
 </div>
 
