@@ -5,9 +5,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h1 align="center">
-  <img src="assets/DIRA2.png" alt="DIRA" width="30%">
-</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="assets/DIRA2.png" alt="DIRA" width="50%">
+  <img src="assets/cat.gif" alt="Cat Animation" width="20%">
+</div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -30,10 +31,6 @@
     <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div><br>
-
-<div align="center">
-  <img src="assets/cat.gif" alt="Cat Animation" width="20%">
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radithya21&theme=high-contrast&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area_color=A855F7&area=true&hide_border=true" alt="Grafik Kontribusi" />
