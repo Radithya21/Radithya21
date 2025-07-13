@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-  <img src="assets/DIRA.png" alt="DIRA" width="50%">
+  <img src="assets/DIRA2.png" alt="DIRA" width="50%">
 </h1>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
