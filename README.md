@@ -32,7 +32,7 @@
 </div><br>
 
 <div align="center">
-  <img src="assets/cat.gif" alt="Cat Animation" width="20%">
+  <img src="assets/cat.gif" alt="Cat Animation" width="40%">
 </div>
 
 <div align="center">
