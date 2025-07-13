@@ -107,6 +107,6 @@
 
 <!-- Pacman Contribution Graph (Dark/Light Mode Support) -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="assets/spiderman.gif" alt="Spiderman Animation" width="100%">
+  <img src="assets/spiderman.gif" alt="Spiderman Animation" width="40%">
 </div>
 
