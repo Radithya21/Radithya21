@@ -35,6 +35,10 @@
   <img src="assets/cat.gif" alt="Cat Animation" width="20%">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radithya21&theme=high-contrast&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area_color=A855F7&area=true&hide_border=true" alt="Grafik Kontribusi" />
+</div>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph-dark.svg">
@@ -85,14 +89,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radithya21&theme=dark&background=0d1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=A855F7&dates=ffffff" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radithya21&theme=high-contrast&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area_color=A855F7&area=true&hide_border=true" alt="Grafik Kontribusi" />
-</div>
 
-<!-- Animated Line -->
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
+
 
 ## 🏆 Pencapaian GitHub
 
