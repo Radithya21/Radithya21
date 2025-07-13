@@ -6,9 +6,12 @@
 </div>
 
 <h1 align="center">
-
-<span style="background: linear-gradient(to right, #800080, rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▀▄ █ █▀█ ▄▀█</span>
-<span style="background: linear-gradient(to right, #800080,rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▄▀ █ █▀▄ █▀█</span>
+  <div style="display: flex; justify-content: center; align-items: center; border: 2px solid #800080; padding: 10px; border-radius: 8px;">
+    <pre style="margin: 0;">
+      <span style="background: linear-gradient(to right, #800080, rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▀▄ █ █▀█ ▄▀█</span>
+      <span style="background: linear-gradient(to right, #800080,rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▄▀ █ █▀▄ █▀█</span>
+    </pre>
+  </div>
 </h1>
 
 <div align="center">
