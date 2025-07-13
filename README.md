@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dira</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <h1>Hi 👋, I'm Dira</h1>
+  <img src="assets/cat.gif" alt="Cat Animation" width="20%">
+</div>
 
 <!-- Animated Line -->
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -31,10 +34,7 @@
   </a>
 </div><br>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <h1 align="center">Hi 👋, I'm Dira</h1>
-  <img src="assets/cat.gif" alt="Cat Animation" width="20%">
-</div>
+
 
 <p align="center">
   <picture>
