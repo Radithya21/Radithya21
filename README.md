@@ -31,8 +31,9 @@
   </a>
 </div><br>
 
-
-
+<div align="center">
+  <img src="assets/cat.gif" alt="Cat Animation" width="20%">
+</div>
 
 <p align="center">
   <picture>
