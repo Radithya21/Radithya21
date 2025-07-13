@@ -6,10 +6,8 @@
 </div>
 
 <h1 align="center">
-  <pre>
 <span style="background: linear-gradient(to right, #800080, rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▀▄ █ █▀█ ▄▀█</span>
 <span style="background: linear-gradient(to right, #800080,rgb(77, 9, 213)); -webkit-background-clip: text; color: transparent;">█▄▀ █ █▀▄ █▀█</span>
-  </pre>
 </h1>
 
 <div align="center">
